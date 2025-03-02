@@ -1,4 +1,4 @@
-![Your Alt Text](assets/VoxXCode.gif)
+
 
 
 <h1 align="center">Hi 👋, I'm Devano Aghanza Putra Pradessah</h1>
